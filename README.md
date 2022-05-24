@@ -1,3 +1,5 @@
+ELIZABETH MANGU
+2020-04-05683
 # CS 234 Lab 1: Hello World"
 
 ## 1. Preliminaries
