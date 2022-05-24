@@ -11,4 +11,4 @@ public class Main {
         System.out.println("The object's position after " + fallingTime +
                 " seconds is " + finalPosition + " m.");
     }
-}
+} //end of class
